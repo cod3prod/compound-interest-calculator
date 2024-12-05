@@ -1,6 +1,6 @@
 import { useInput } from "@/hooks/use-input";
 import { Input } from "./input";
-import { InputState, InputAction } from "../types/input-reducer";
+import { InputAction } from "../types/input-reducer";
 
 
 export default function Calculator() {
