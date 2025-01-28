@@ -14,7 +14,7 @@ export default function Calculator() {
   };
 
   return (
-    <section className="p-4 max-w-[30rem] mx-auto my-8 rounded-md bg-gradient-to-b from-[#307e6c] to-[#2b996d]">
+    <section className="p-4 max-w-[30rem] mx-auto my-8 rounded-md bg-linear-to-b from-[#307e6c] to-[#2b996d]">
       <div className="flex justify-evenly gap-6">
         <Input 
           name="monthlyContribution" 
